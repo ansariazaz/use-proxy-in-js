@@ -1,0 +1,35 @@
+.container{
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2{
+    text-align: center;
+}
+form{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+ul{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aqua;
+    padding: 0px 12px;
+    list-style: none;
+}
+.addbtn{
+    margin-top: 12px;
+}
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.taskhead{
+    margin: 4px;
+}
+.line{
+    text-decoration: line-through;
+}
